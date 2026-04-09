@@ -70,3 +70,9 @@ Reservations.reservation_id < Payments.reservation_id // reservation 1 -> many p
 Parked_area.parking_id < Reservations.parking_id
 
 Parked_area.parking_id < Session.parking_id
+
+
+
+
+
+<img width="2307" height="950" alt="diagram-export-4-9-2026-4_19_31-PM" src="https://github.com/user-attachments/assets/d7af03b4-4753-4b08-8c4f-1dbfabab10a1" />
